@@ -1,0 +1,47 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+  font-family: 'Zilla Slab', serif;
+}
+
+.jumbotron {
+  background: #5D89F7;
+  background-image: url("image/MSW-Blue-Green-Logo-100x100.png");
+  background-size: 1200px 350px, cover;
+  background-position: 100% 50% ;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-top {
+    width: 50%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px ;
+}
+.image2 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: -25px;
+  right: 95px;
+  background-size: cover;
+ display: block;
+/*  border: 1px solid;*/
+  
+}
+footer{
+    border-top: 1px solid black;
+}
