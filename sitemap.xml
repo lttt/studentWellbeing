@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/strategy/</loc>
+    <loc>https://lttt.github.io/studentWellbeing/strategy/</loc>
     <lastmod>2023-06-30T16:32:42+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/givesupport/</loc>
+    <loc>https://lttt.github.io/studentWellbeing/givesupport/</loc>
     <lastmod>2023-06-30T16:30:32+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://lttt.github.io/studentWellbeing/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://lttt.github.io/studentWellbeing/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/get_support/</loc>
+    <loc>https://lttt.github.io/studentWellbeing/get_support/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://lttt.github.io/studentWellbeing/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/</loc>
+    <loc>https://lttt.github.io/studentWellbeing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
