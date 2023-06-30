@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wellness and mental health on Student Wellbeing</title>
+    <link>/</link>
+    <description>Recent content in Wellness and mental health on Student Wellbeing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strategy</title>
+      <link>/strategy/</link>
+      <pubDate>Fri, 30 Jun 2023 16:32:42 +0800</pubDate>
+      
+      <guid>/strategy/</guid>
+      <description>UM&amp;rsquo;s Campus Mental Health Strategy, Success Through Wellness, is a call to action for all of us as students, staff and faculty within the UM community.
+The strategy focuses on the promotion and support of mental health as a collective responsibility. It examines all aspects of the university, and identifies ways we can be a community that is committed, caring, healthy, responsive, supportive and resourceful.
+Supporting mental health and well-being reaps tremendous rewards, including a more positive work and learning environment, enhanced student experience, and increased staff and faculty satisfaction and engagement.</description>
+    </item>
+    
+    <item>
+      <title>Give support</title>
+      <link>/givesupport/</link>
+      <pubDate>Fri, 30 Jun 2023 16:30:32 +0800</pubDate>
+      
+      <guid>/givesupport/</guid>
+      <description>Creating an inclusive environment is a community effort! Find resources designed to help others and foster positive well-being experiences for students, faculty and staff.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Mental Health on Campus or mental.health@umanitoba.ca</description>
+    </item>
+    
+    <item>
+      <title>Get support</title>
+      <link>/get_support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/get_support/</guid>
+      <description>Student health and wellness Health and wellness play a critical role in student success. Explore a wide range of services that are available to you that support your physical and mental well-being.
+Faculty and staff well-being Wellness encompasses mental, spiritual, physical, financial, family and workplace health. Discover programs and resources available to support your wellness journey and improve well-being. (Access on UM Intranet with your @umanitoba.ca employee email address.)</description>
+    </item>
+    
+  </channel>
+</rss>
