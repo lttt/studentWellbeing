@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wellness and mental health on Student Wellbeing</title>
-    <link>https://lttt.github.io/studentWellbeing/</link>
-    <description>Recent content in Wellness and mental health on Student Wellbeing</description>
+    <title>Give support on Student Wellbeing</title>
+    <link>https://lttt.github.io/studentWellbeing/give_support/</link>
+    <description>Recent content in Give support on Student Wellbeing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://lttt.github.io/studentWellbeing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact us</title>
-      <link>https://lttt.github.io/studentWellbeing/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lttt.github.io/studentWellbeing/contact/</guid>
-      <description>If you’ve got any questions,you can always contact us through following ways.
-mental.health@umanitoba.ca Mental Health on Campus </description>
-    </item>
-    
-    <item>
-      <title>Get support</title>
-      <link>https://lttt.github.io/studentWellbeing/get_support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lttt.github.io/studentWellbeing/get_support/</guid>
-      <description>Student health and wellnessHealth and wellness play a critical role in student success. Explore a wide range of services that are available to you that support your physical and mental well-being.
-Faculty and staff well-beingWellness encompasses mental, spiritual, physical, financial, family and workplace health. Discover programs and resources available to support your wellness journey and improve well-being. (Access on UM Intranet with your @umanitoba.ca employee email address.)</description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://lttt.github.io/studentWellbeing/give_support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Helping a colleague in distress</title>
       <link>https://lttt.github.io/studentWellbeing/give_support/chapter-3/</link>
@@ -52,17 +32,6 @@ Faculty and staff well-beingWellness encompasses mental, spiritual, physical, fi
       
       <guid>https://lttt.github.io/studentWellbeing/give_support/chapter-4/</guid>
       <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Strategy</title>
-      <link>https://lttt.github.io/studentWellbeing/strategy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lttt.github.io/studentWellbeing/strategy/</guid>
-      <description>Our mental health strategy UM&amp;rsquo;s Campus Mental Health Strategy, Success Through Wellness, is a call to action for all of us as students, staff and faculty within the UM community.
-The strategy focuses on the promotion and support of mental health as a collective responsibility. It examines all aspects of the university, and identifies ways we can be a community that is committed, caring, healthy, responsive, supportive and resourceful.
-Supporting mental health and well-being reaps tremendous rewards, including a more positive work and learning environment, enhanced student experience, and increased staff and faculty satisfaction and engagement.</description>
     </item>
     
     <item>
